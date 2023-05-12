@@ -1,10 +1,5 @@
 ## seungho-hub! :wave:
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=seungho-hub&theme=dark&show_icons=true">
-    <img align="right" width="50%" height : "70%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-
 I'm seungho, studying backend engineering! 
 
 -   :hammer_and_pick:   
@@ -19,4 +14,11 @@ I'm seungho, studying backend engineering!
 
     <a href = "https://www.notion.so/seungho-hub" target = "_blank"><img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=Notion&logoColor=black"/></a>
     <a href = "https://leetcode.com/seungho-hub/" target = "_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+
+<br>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=seungho-hub&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
     
