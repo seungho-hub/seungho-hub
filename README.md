@@ -1,6 +1,6 @@
 ## seungho-hub! :wave:
 
-I'm seungho, studying backend engineering! 
+studying backend engineering! 
 
 -   :hammer_and_pick:   
 
