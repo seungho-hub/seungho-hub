@@ -5,8 +5,6 @@ studying backend engineering!
 -   :hammer_and_pick:   
 
     <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"/>
 
     <p></p>
