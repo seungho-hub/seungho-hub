@@ -2,8 +2,9 @@
 
 studying backend engineering! 
 
--   :hammer_and_pick:   
-
+-   :hammer_and_pick:
+  
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
